@@ -1,0 +1,42 @@
+
+{
+  "projects": [
+    {
+      "image": "",
+      "title": "Fashion E-Commerce Web Application",
+      "bodyText": "A responsive Fashion E-Commerce frontend application built using React.js, Redux, HTML5, CSS3 and JavaScript. Features component-based architecture, Redux for global state management, responsive layouts using Flexbox and Grid, and dynamic content rendering.",
+      "links": [],
+      "tags": [
+        "React.js",
+        "Redux",
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ]
+    },
+    {
+      "image": "",
+      "title": "Task Management Web Application",
+      "bodyText": "A Task Management Web Application developed using HTML5, CSS3 and JavaScript. Allows users to add, edit and delete tasks with dynamic DOM manipulation.",
+      "links": [],
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "DOM Manipulation"
+      ]
+    },
+    {
+      "image": "",
+      "title": "Personal Portfolio Website",
+      "bodyText": "A personal portfolio website developed using HTML5, CSS3 and JavaScript to showcase personal information, technical skills, education and projects. Designed with a responsive layout and deployed using GitHub Pages.",
+      "links": [],
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "GitHub Pages"
+      ]
+    }
+  ]
+}

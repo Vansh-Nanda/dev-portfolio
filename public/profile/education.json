@@ -1,0 +1,23 @@
+
+{
+  "education": [
+    {
+      "title": "2022 - 2026",
+      "cardTitle": "B.Tech - Computer Science and Engineering",
+      "cardSubtitle": "Chandigarh University, Punjab",
+      "cardDetailedText": ""
+    },
+    {
+      "title": "2021 - 2022",
+      "cardTitle": "Senior Secondary Education (Class XII)",
+      "cardSubtitle": "Monfort School, Roorkee",
+      "cardDetailedText": "CBSE Board"
+    },
+    {
+      "title": "2020 - 2021",
+      "cardTitle": "Secondary Education (Class X)",
+      "cardSubtitle": "Monfort School, Roorkee",
+      "cardDetailedText": "CBSE Board"
+    }
+  ]
+}
