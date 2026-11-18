@@ -1,11 +1,19 @@
-
 {
   "projects": [
     {
       "image": "",
       "title": "Fashion E-Commerce Web Application",
-      "bodyText": "A responsive Fashion E-Commerce frontend application built using React.js, Redux, HTML5, CSS3 and JavaScript. Features component-based architecture, Redux for global state management, responsive layouts using Flexbox and Grid, and dynamic content rendering.",
-      "links": [],
+      "bodyText": "A responsive fashion e-commerce frontend application developed using React.js and Redux. Features reusable React components, centralized state management, and responsive layouts using CSS Flexbox and Grid.",
+      "links": [
+        {
+          "text": "Live Demo",
+          "href": "https://fashion-ecommerce-bice-eight.vercel.app"
+        },
+        {
+          "text": "GitHub",
+          "href": "https://github.com/Vansh-Nanda/fashion-ecommerce"
+        }
+      ],
       "tags": [
         "React.js",
         "Redux",
@@ -17,25 +25,45 @@
     {
       "image": "",
       "title": "Task Management Web Application",
-      "bodyText": "A Task Management Web Application developed using HTML5, CSS3 and JavaScript. Allows users to add, edit and delete tasks with dynamic DOM manipulation.",
-      "links": [],
+      "bodyText": "A task management application developed using React.js and Redux. Supports task creation, updating, deletion, and filtering with centralized state management and a responsive user interface.",
+      "links": [
+        {
+          "text": "Live Demo",
+          "href": "https://task-management-app-eight-livid.vercel.app"
+        },
+        {
+          "text": "GitHub",
+          "href": "https://github.com/Vansh-Nanda/task-management-app"
+        }
+      ],
       "tags": [
+        "React.js",
+        "Redux",
         "HTML5",
         "CSS3",
-        "JavaScript",
-        "DOM Manipulation"
+        "JavaScript"
       ]
     },
     {
       "image": "",
       "title": "Personal Portfolio Website",
-      "bodyText": "A personal portfolio website developed using HTML5, CSS3 and JavaScript to showcase personal information, technical skills, education and projects. Designed with a responsive layout and deployed using GitHub Pages.",
-      "links": [],
+      "bodyText": "A personal portfolio website developed using React.js and Redux to showcase professional details, technical skills, education, and projects. Built with modular components and a responsive layout.",
+      "links": [
+        {
+          "text": "Live Demo",
+          "href": "https://dev-portfolio-one-black.vercel.app"
+        },
+        {
+          "text": "GitHub",
+          "href": "https://github.com/Vansh-Nanda/dev-portfolio"
+        }
+      ],
       "tags": [
+        "React.js",
+        "Redux",
         "HTML5",
         "CSS3",
-        "JavaScript",
-        "GitHub Pages"
+        "JavaScript"
       ]
     }
   ]
